@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "PakoraLove",
+    "slug": "pakoralove",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["web"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
